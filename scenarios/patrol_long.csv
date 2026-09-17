@@ -1,0 +1,24 @@
+# Patrouille plus longue avec retour periodique
+takeoff
+move_step
+move_step
+avoid_maneuver
+move_step
+avoid_maneuver
+return_home
+return_home
+return_home
+return_home
+return_home
+return_home
+dock_cmd
+charge_step
+charge_step
+undock_cmd
+move_step
+avoid_maneuver
+return_home
+return_home
+return_home
+return_home
+dock_cmd

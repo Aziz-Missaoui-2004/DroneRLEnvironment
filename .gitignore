@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+
+# Teacher-provided documents: redistribution requires permission
+/2025_2026.pdf
+/complement_tp.pdf

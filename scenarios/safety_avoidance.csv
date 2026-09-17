@@ -1,0 +1,14 @@
+# Scenario centre sur l'evitement
+takeoff
+move_step
+avoid_maneuver
+avoid_maneuver
+move_step
+avoid_maneuver
+return_home
+return_home
+return_home
+return_home
+return_home
+return_home
+dock_cmd
