@@ -1,0 +1,7 @@
+[project]
+name = "drone-rl-environment"
+version = "0.1.0"
+description = "A discrete drone patrol simulator for coverage, energy and safety experiments."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
