@@ -12,6 +12,9 @@ venv/
 .idea/
 .vscode/
 
+# Local project roadmap and change journal
+/steps.md
+
 # Teacher-provided documents: redistribution requires permission
 /2025_2026.pdf
 /complement_tp.pdf
